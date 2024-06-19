@@ -9,3 +9,6 @@ Thanks to mystic-man-rhino's fork, I was able to get it here.
 2. Then to apk directory
 3. There you have all extensions.
 4. Enjoy!
+
+
+Atleast for the time being, these extensions will work alright.
