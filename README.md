@@ -1,7 +1,7 @@
 This is the old fork of aniyomi. I forked this and will not sync this so that you guys can add extensions anyway.
 
 
-Thanks to mystic-man's fork, I was able to get it here.
+Thanks to mystic-man-rhino's fork, I was able to get it here.
 
 # How to get extensions back ?
 
